@@ -1,0 +1,19 @@
+#+TITLE: Cruienthes County Quarterly Zine
+#+AUTHOR: Dave Chesser
+#+STARTUP: nofold
+
+* What?
+
+Yet another zine (small "magazine") for table-top role-playing games.
+Specifically a setting known as, as the title states, the county
+of Cruienthes.
+I missed out on [[https://www.kickstarter.com/zine-quest][Zine Quest]] last February so this is my time
+to get started and jot things down.
+
+* Compiling
+
+To build a zine, you need [[https://islandoftex.gitlab.io/arara/][Arara]], the build tool, and [[https://wiki.contextgarden.net/Main_Page][ConTheXt]],
+the typesetting system.
+Both should be available in a full [[https://tug.org/texlive/][TeX Live]] distribution.
+
+
