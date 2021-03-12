@@ -1,18 +1,22 @@
-#+TITLE: Cruienthes County Quarterly Zine
+#+TITLE: Counties of Cruienthes Quarterly Zine
 #+AUTHOR: Dave Chesser
 #+STARTUP: nofold
 
 * What?
 
 Yet another zine (small "magazine") for table-top role-playing games.
-Specifically a setting known as, as the title states, the county
-of Cruienthes.
+Specifically a setting known as, as the title states, Cruienthes,
+a low-ish fantasy realm inspired by +real life+ +a fever dream+
++a dada nightmare+ improvized worldbuilding and solitaire gaming.
+While made with [[https://www.kickstarter.com/projects/1637945166/worlds-without-number][Worlds Without Number]] and [[https://necroticgnome.com/collections/old-school-essentials][Old-School Essentials]] in mind,
+it should be compatible with most d20-based games from before 1990.
+
 I missed out on [[https://www.kickstarter.com/zine-quest][Zine Quest]] last February so this is my time
 to get started and jot things down.
 
 * Compiling
 
-To build a zine, you need [[https://islandoftex.gitlab.io/arara/][Arara]], the build tool, and [[https://wiki.contextgarden.net/Main_Page][ConTheXt]],
+To build a zine, you need [[https://islandoftex.gitlab.io/arara/][Arara]], the build tool, and [[https://wiki.contextgarden.net/Main_Page][ConTeXt]],
 the typesetting system.
 Both should be available in a full [[https://tug.org/texlive/][TeX Live]] distribution.
 
